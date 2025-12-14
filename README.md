@@ -16,6 +16,7 @@ https://nbviewer.org/github/HTAGNY/Bank-Churn-Prediction/blob/main/Bank_Project.
 - Voting
 - Stacking
 - Gradient Boosting
+- XGBoost
 - CatBoost
 
 ## Best Model
