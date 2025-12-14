@@ -20,4 +20,4 @@ https://nbviewer.org/github/HTAGNY/Bank-Churn-Prediction/blob/main/Bank_Project.
 - CatBoost
 
 ## Best Model
-CatBoost – ~97.2% accuracy + best Recall churn
+CatBoost (best accuracy) – ~97.2% / 93% accuracy + best Recall churn 
